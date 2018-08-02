@@ -1,0 +1,2057 @@
+[WinDict 1.0]
+[Deutsch]
+[Hansmann, Thomas]
+[]
+;15.11.2005 10:58.37
+
+"&Dirty" lines mark
+"Gean&dert" Zeilenmarkierung
+
+"Virtual" &lines mark
+"Virtuelle" Zeilenmarkierung
+
+%s not found!
+
+%s\nhas READ-ONLY attribute!\nDo you want to overwrite it?
+%s\nist schreibgeschützt!\nWollen Sie die Datei überschreiben?
+
+-1 to use default
+-1 Standard nutzen
+
+0 or more matches
+
+1 or more matches
+
+&2 sec difference ignore, if same size
+Bei gleicher Dateigröße &2 sek. Zeitunterschied ignorieren
+
+<no items>
+<Keine Einträge>
+
+?! SAME !?
+?! IDENTISCH !?
+
+?! SAME SIZE !?
+?! GLEICHE GRÖßE !?
+
+?! SAME TIME!?
+?! GLEICHES DATUM !?
+
+Abbreviate &file names
+&Dateinamen abkürzen
+
+About
+&Info
+
+&Action
+&Durchführen
+
+Activate Task List
+Aktiviert Task-Leiste
+
+Active Path
+Aktiver Pfad
+
+Add
+
+Add this
+&Aktuelle Konfiguration hinzufügen
+
+Adjust row &height (0-default)
+Justiere Zeilen&höhe (0=Standard)
+
+Adjust similar lines
+
+Advanced
+Erweitert
+
+Advanced files selection
+Erweiterte Dateiauswahl
+
+Advanced search
+Erweiterte Suche
+
+&all
+&alle
+
+All <<
+Alle vorherigen <<
+
+All >>
+Alle folgenden >>
+
+All archives
+Alle Archive
+
+All done, Master!
+Fertig, Master!
+
+Alphanumeric
+
+Alt
+Alt-Taste
+
+Alternate
+Alternativ
+
+&Alternate compare tool
+&Alternatives Vergleichsprogramm
+
+Alternate compare tool is not selected or not valid!
+Alternatives Vergleichsprogramm ist nicht ausgewählt oder nicht installiert!
+
+Always log
+Immer
+
+Always start in Edit Mode
+
+Always start in Read-Only mode
+
+and
+und
+
+Any character
+
+Archives
+Archive
+
+&Archives
+&Archive
+
+Are you sure you want to compare this file to itself?
+
+Are you sure you want to delete project %s
+Sind Sie sicher das Sie dieses Projekt löschen wollen: %s
+
+Are you sure?
+Sind Sie sicher?
+
+Arguments
+
+&Assign
+&Nachfolgend
+
+Automatic mode requires valid source and target folders in command line!
+Der Automatikbetrieb benötigt einen gültige Quell- und Zielordner in der Befehlszeile !
+
+&Available
+&Verfügbar
+
+Background
+Hintergrund
+
+&Background
+&Hintergrund
+
+&Backup archives
+&Datensicherungs-Archive
+
+&Backup files
+&Datensicherungs-Dateien
+
+Backup files storage time, days
+Datensicherungliste speichern Zeit, Tage
+
+Backup List
+Datensicherungs-Liste
+
+&Backup mode
+&Backup - neue Ziele löschen
+
+Bcksp
+Backspace
+
+Beginning of line
+
+Blank
+
+B&old
+
+Both files are in read-only mode!
+Beide Dateien haben den READ-ONLY Status!
+
+Browse
+Durchsuchen
+
+Call other diff view tool
+Benutzen Sie eine andere Anzeigesoftware
+
+Can not find string %s
+Diese Zeichenkette wurde nicht gefunden %s
+
+Can not work with archive
+Kann dieses Archive nicht bearbeiten
+
+Cancel
+Abbrechen
+
+&Cancel
+&Abbrechen
+
+CAPS
+CAPS
+
+&Case sensitive
+&Spezieller Fall
+
+Change keyboard shortcuts
+Tastatur Shortcuts ändern
+
+Change the window position
+Ändern Sie die Position des Fensters
+
+Change the window size
+Ändern Sie die Größe des Fensters
+
+Changed
+Geändert
+
+Changes only
+
+Character in range
+
+Character not in range
+
+&Clear ReadOnly attribute when copying from CD
+Beim Kopieren von &CD Schreibschutz-Attribut entfernen
+
+Close
+S&chließen
+
+Close all
+
+Close the active window and prompts to save the documents
+Schließen Sie das aktive Fenster und die Popups um das Dokument zu schließen
+
+&cm
+
+Col
+
+&Color
+&Farbe
+
+Colors
+Farben
+
+Column range is used!
+
+&Command
+&Befehl
+
+Command
+
+&Commands
+Befehle
+
+Comment
+
+Compare
+Vergleichen
+
+&Compare
+&Vergleichen
+
+&Compare files
+Dateien &vergleichen
+
+Compare files
+Vergleiche Dateien
+
+Compare files of same si&ze
+Gleich große Dateien prüfen
+
+&Compare It!
+&Compare It!
+
+Compare lines
+Zeilen vergleichen
+
+Comparing files . . .
+Vergleiche die Dateien . . .
+
+Comparison
+Vergleich
+
+Comparison report
+Verleich Report
+
+Comparison statistics
+
+&Configs
+&Konfigurationen
+
+Configs included
+eingebundene Konfigurationen
+
+Configuration file is read-only!
+
+Configurations
+Konfigurationen
+
+Configure
+&Konfigurieren
+
+Configure it!
+Konfigurationen bearbeiten
+
+Configure It!
+Filter bearbeiten
+
+Configure Projects
+Projekte bearbeiten
+
+Context Help
+Hilfstexte
+
+context &lines
+Kontextzeilen
+
+&Context lines for Changes Only mode
+
+Converters
+Konverter
+
+Convertors
+Konverter
+
+Copy
+Kopieren
+
+&Copy
+&Kopieren
+
+Copy Curr Diff to Dest
+Kopiere aktuelle Differenzdateien auf Ziel
+
+Copy Curr Diff to Source
+Kopiere aktuelle Differenzdateien auf Quelle
+
+Copy current difference to clipboard
+Kopiere aktuelle Differenzdateien auf Zwischenablage
+
+Copy Current line to Dest
+Kopiere aktuelle Zeile auf Ziel
+
+Copy Current line to Source
+Kopiere aktuelle Zeile auf Quelle
+
+Copy Diff
+Kopiere Differenzdateien
+
+Copy Diff to clipboard
+Kopiere Differenzdateien auf die Zwischenablage
+
+Copy the selection and put it on the Clipboard
+Kopiere die ausgewählten Dateien in die Zwischenablage
+
+Copy To
+Kopiere nach
+
+Copying
+Kopiere
+
+Could not find string '%s'
+
+Could not write to this file
+
+CR\\LF mode is different!
+
+Create tree
+Baum erzeugen
+
+Credits
+
+Ctrl
+Ctrl
+
+Current &keys
+Akuelle Tasten
+
+Currently assigned to
+Gegenwärtig zugeordnet 
+
+Currrent:%s
+Aktuell:%s
+
+Custom
+
+Customize
+Konfigurieren
+
+&Customize
+&Konfigurieren
+
+Customize it!
+Tools bearbeiten
+
+Customize Toolbar
+Persönliche Symbolleisten
+
+Cut
+Ausschneiden
+
+Cu&t
+&Ausschneiden
+
+Cut file after match
+
+Cut the selection and put it on the Clipboard
+Schneidet die Dateien aus und legt Sie in die Zwischenablage
+
+&Cycled search
+
+Date
+Datum
+
+Date is bet&ween
+Geändert zwischen
+
+Day(s)
+Tag(e)
+
+Decrease font size
+
+&Defaults
+&Standardwerte
+
+Delete
+Löschen
+
+Delete all anchors
+
+Delete anchor
+
+Delete both
+Lösche beide
+
+Delete both line
+Beide Zeilen löschen
+
+Delete current section in active file
+Aktuelle Auswahl in der aktiven Datei löschen
+
+Delete current section in both files
+Aktuelle Auswahl in beiden Dateien löschen
+
+Delete empty &folders
+Leere Verzeichnisse löschen
+
+Delete in both files
+Lösche in beiden Dateien
+
+Delete Line
+Lösche Zeile
+
+Delete section
+Lösche Auswahl
+
+Delete unused files?
+Lösche nicht benötigte Dateien?
+
+Deleting file!
+Lösche Datei!
+
+Description
+
+Dest only
+Nur Ziel
+
+&Destination
+&Ziel
+
+Destination File Not Found!
+Ziel-Datei nicht gefunden!
+
+Diff To Dest
+Geänderte Dateien => Ziel
+
+Diff To Src
+Geänderte Dateien => Quelle
+
+Different in blanks only!
+Änderungen nur in Leerzeichen!
+
+Digit
+
+Directory
+Verzeichnis
+
+Directory name
+Verzeichnisname
+
+Dirty
+Fett
+
+Disable vertical synchronization
+Ohne Synchronisation der Unterverzeichnisse
+
+Disable vertical syncronization
+Ohne Synchronisation der Unterverzeichnisse
+
+Display changes statistics
+
+Display printing options
+Druckoptionen anzeigen
+
+Display program information, version number and copyright
+Anzeige der Programm-Informationen, Versionsnummer und des Copyrights
+
+D&o "Select Files" on start
+&Führe "ausgewählte Dateien" beim Start aus
+
+Do It Now!
+Jetzt synchronisieren!
+
+&Do It!
+&Starte!
+
+Do not edit read-only files
+
+Do you want to create it?
+Möchten Sie es verursachen?
+
+Do you want to create this archive?
+Wolle Sie dieses Archive anlegen?
+
+Do you want to fix this problem?
+
+Do you want to reload files?
+Wollen Sie diese Dateien zurückholen?
+
+Do you want to rescan files now?
+Wollen Sie die Dateien erneut überprüfen?
+
+Do you want to view files?
+Möchten Sie die Dateien anzeigen?
+
+Doc Wrap
+
+Dri&ves
+/Laufwerke
+
+Drop file here
+
+Duplicate source
+Auch alte Dateien ins Ziel kopieren
+
+EasyJoin
+EasyJoin
+
+EDIT
+Bearbeiten
+
+&Edit
+&Bearbeiten
+
+Edit Filters
+Filter bearbeiten
+
+Edit it
+Bearbeiten
+
+Edit mode
+Bearbeitungs-Modus
+
+&Edit mode by default
+&Bearbeitungs-Standard-Modus
+
+Edited
+Bearbeitet
+
+Editor
+Editor
+
+Enable syntax
+
+Enlarge the window to full size
+Fenster vergrößern
+
+Enter EasyJoin mode
+Starten des EasyJoin-Modus
+
+Enter your registration code
+Geben Sie Ihre Registrierungs-Nummer ein
+
+Erase
+Löschen
+
+Erase All
+Lösche alles
+
+Erase everything
+Lösche alles
+
+Erase the selection
+Lösche die selektierten Dateien
+
+ESC
+ESC
+
+ESC closes application
+ESC schließt die Anwendung
+
+E&xample
+&Beispiel
+
+Example
+
+&Exclude
+&Ausschließen
+
+Exclude files by mask
+Suchmaske zum Ausschließen von Dateien verwenden
+
+Exc&lude folders
+Ordner ausschließen
+
+Executables(*.exe,*.bat,*.com)|*.exe; *.bat; *.com|All Files (*.*)|*.*||
+Ausführbare Dateien (*.exe,*.bat,*.com)|*.exe;*.bat;*.com|Alle Dateien(*.*)|*.*||
+
+Exit
+Exit
+
+E&xit
+E&xit
+
+&Expand
+&Vergrößern
+
+Export
+
+EXT
+EXT
+
+Extended
+Erweitert
+
+External CSS file
+
+Failed to change file attributes!
+Versuch die Dateiattribute zu ändern fehlgeschlagen!
+
+Failed to create file
+Datei konnte nicht erstellt werden
+
+Failed to create files list
+Dateiliste konnte nicht erstellt werden
+
+Failed to open archive
+
+Failed to read destination file!
+
+Failed to read source file!
+
+&File
+&Datei
+
+File date
+
+File Filters
+
+&File info
+
+File is probably locked by another application
+
+&File mask
+&Dateimaske
+
+File overwrite!
+Datei überschrieben!
+
+File size
+
+File siz&e
+Dateigröße
+
+File type
+
+&Files
+&Dateien
+
+Files
+Dateien
+
+Files are identical!
+Dateien sind gleich!
+
+Files to copy from left to right
+Zeige nur Dateien, die von der Quelle zum Ziel kopiert werden sollen
+
+Files to copy from right to left
+Zeige nur Dateien, die vom Ziel zu der Quelle kopiert werden sollen
+
+&Filter
+&Filter
+
+Filter view to changes only
+
+&Filters
+&Filter
+
+Filters
+Filter
+
+&Find
+
+Find
+Suchen
+
+Find File
+Suche Dateien
+
+Find first
+
+&Find moved sections
+
+Find next
+Suche nächste Datei
+
+Find &next
+Suche &nächste Datei
+
+Find next bookmark
+Suche nächste Markierung
+
+Find next item
+Suche nächsten Punkt
+
+Find prev
+
+Find &prev.
+Suche &Vorgänger
+
+Find previous
+Vorher suchen
+
+Find previous word
+
+Find the specified text
+Suche Text
+
+Find word
+Finde Wort
+
+Finds next difference in line
+Finde nächsten Unterschied in Ziele
+
+Finds previous difference in line
+Finde vorherigen Unterschied in Zeile
+
+First
+Anfang
+
+F&ixed font
+
+Flat t&oolbar
+Kleine &Symbolleisten
+
+Folders overview
+Ordner Übersicht
+
+&Font
+
+Font
+Schrift
+
+Fonts
+Schriftarten
+
+&Footer
+
+Force &partial matching (slower)
+
+General
+Allgemeines
+
+Generate
+Erzeuge
+
+Generate differences report
+Erzeuge Unterschieds-Report
+
+Generate printable HTML report
+Erzeuge eine druckbare HTML Datei
+
+Go to first ignored difference
+
+Go to line
+Gehe zur Zeile
+
+Go to next diff
+Gehe zur nächsten geänderten Zeile
+
+Go to next ignored difference
+
+Go to prev diff
+Gehe zur vorherigen geänderten Zeile
+
+Go to previous ignored difference
+
+Go to specified line
+Gehe zur markierten Zeile
+
+Go to WWW home page
+Gehe zur WWW home page
+
+&Go!
+&LOS!
+
+&Gutter
+
+&Header
+
+Help
+Hilfe
+
+&Help
+&Hilfe
+
+Help Files
+Hilfe-Dateien
+
+Home page
+Home page
+
+Horizontal view
+Horizontale Ansicht
+
+Hour(s)
+Stunde(n)
+
+&How to register?
+&Wie kann ich die Software registrieren lassen?
+
+Ignore blanks
+Ignoriere Leerzeichen
+
+Ignore &case
+Ignoriere &Groß-/ und Kleinschreibung
+
+Ignore current difference
+
+I&gnore date and time
+Datum und Zeit i&gnorieren
+
+Ignore Diff
+
+I&gnore inserted empty lines
+I&gnoriere leere Zeilen
+
+Ignore line &wraps
+
+Ignore lines between R1 and R2
+
+Ignore lines matching R2 after R1
+
+Ignore lines not matching R1
+
+Ignore matched &spaces
+Ignoriere &Leerzeichen
+
+Ignore nothing
+
+&Ignore NTFS daylight savings
+NTFS-Zeitverschiebung (1 Std.) &ignorieren
+
+Ignore seconds, if not available
+Sekunden ignorieren, wenn nicht vorhanden
+
+Ignore &special characters
+
+Ignore string with match
+
+Import
+
+in-line
+Einfügen
+
+&inches
+
+Include navigation
+Einschließlich Navigation
+
+&Include subdirectories
+Unterverzeichn. einschl&ießen
+
+Increase font size
+
+Indent on "&Enter"
+Einrücken mit "&Enter"
+
+Insert after section
+Nach Auswahl einfügen
+
+Insert before section
+Vor Auswahl einfügen
+
+Insert Clipboard contents
+Zwischenablage einfügen
+
+Insert current section after changes block
+Aktuelle Auswahl hinter geändertem Block einfügen
+
+Insert current section before changes block
+Aktuelle Auswahl vor geändertem Block einfügen
+
+Insert Tab
+TAB einfügen
+
+It was last difference. Would you like to review skipped?
+Das ist die letzte Änderung. Möchten Sie die Änderungen durchsehen?
+
+It's READ-ONLY! Are you sure?
+Dateiattribut READ-ONLY! Sind Sie sicher?
+
+I&talic
+
+&Item
+&Element
+
+&Items
+&Ausdruck
+
+Key
+
+Keyboard
+Tastatur
+
+Keys list
+
+Keyword
+
+&Kill blanks on line end
+Lösche Leerzeichen am Zeilenende
+
+&Landscape
+&Breitformat
+
+Language
+Sprache
+
+Last
+Letzt
+
+&Later
+Später
+
+&leading
+vorangestellte
+
+Left
+Links
+
+&Line number
+&Zeilen-Nummer
+
+Line numbers
+Zeilenzahlen
+
+&Line numbers
+&Zeilenzahlen
+
+Line to Dest
+Zeile zum Ziel
+
+Line to Src
+Zeile zur Quelle
+
+Lines comparison
+
+Lines View
+
+Ln
+
+&Log
+&Log
+
+Log &file
+&Datei
+
+Log File
+Log-Datei
+
+&Log file usage
+&Log-Datei aufrufen
+
+Look for "Log" checkbox in file list dialog
+Festlegung über Checkbox im Suchergebnisfenster
+
+Lowercase
+
+&Main
+&Haupt
+
+Manual match
+
+M&argin
+&Neben
+
+Margins
+
+Mark added files on Target for Delete
+Markiert neue Zieldateien zum Löschen
+
+Mark out current line
+
+Mask
+Maske
+
+Masks
+Masken
+
+Match bracket
+
+Match bracket + select
+
+M&atching files only
+Nur D&ateien in Quelle und Ziel
+
+&Merge
+
+Merge bar
+
+Merged
+
+M&in % of line to match
+M&in % von übereinstimmenden Zeilen
+
+Min c&hars to match
+Min Zeichen die übereinstimmen müssen
+
+&Min string length to match
+Min Zeichenkette die übereinstimmen muß
+
+Minimize
+
+Minimize the window
+Fenster minimieren
+
+&Modes
+Konfigurationen
+
+Modified: %s, Size: %d
+Verändert: %s, Größe: %d
+
+Month(s)
+Monat(e)
+
+Move
+Gehe
+
+Move next
+Gehe Nächstes
+
+Move to next diff after editing
+Gehe zur nächsten Änderung nach der Bearbeitung
+
+Move to previous bookmark
+
+Moved sections mark color
+
+&multiple
+&mehrfach
+
+N matches
+
+Name
+Name
+
+&Name
+&Name
+
+Net&work
+Netz&werk
+
+New Config
+Neue Konfiguration
+
+new en
+nueue
+
+&New files
+&Neue Dateien
+
+New Files List
+Liste der neuen Dateien
+
+&New files only
+&Nur Neue in Quelle oder Ziel
+
+New Project
+Neue Projekte
+
+&New shortcut key
+&Neuer Shortcut
+
+New Tool
+Neues Werkzeug
+
+Next
+Nächstes
+
+Next anchor
+
+Next Bookmark
+Nächste Markierung
+
+Next Bookmark (F2)
+Nächste Markierung (F2)
+
+Next Diff
+Nächsten Änderung
+
+&Next Diff
+&Nächsten Änderung
+
+Next line change
+Nächste geänderte Zeile
+
+Next page
+Nächste Seite
+
+Next Pane
+Nächste Anzeige
+
+&No
+Nein
+
+No
+Nein
+
+&No confirmation on "Do it now!"
+Kei&ne Bestätigungsabfrage bei "Jetzt synchronisieren!"
+
+No files to synchronize were found!
+Keine Dateien zum Synchronisieren gefunden!
+
+No log
+Keine Log-Datei
+
+No projects defined
+Keine Projekte definiert
+
+No Sync
+Keine Synchronisation
+
+No Wrap
+
+&None
+
+None
+
+Not older &than
+Nicht äl&ter als
+
+&not-word
+&kein-Wort
+
+NUM
+NUM
+
+Number
+
+OK
+OK
+
+OK to delete Configuration
+OK zum Löschen der Konfiguration
+
+OK to delete tool
+OK zum Löschen des Werkzeugs
+
+OK to replace it with
+OK zum Ersetzen der Datei durch
+
+On demand only
+wenn verlangt
+
+On start
+
+One page
+Eine Seite
+
+&Only changes
+&Nur Änderungen
+
+Only if longer then &5 sec
+Nur bei mehr als &5 sek. Laufzeit
+
+Open after generation
+
+Options
+Options
+
+&Options
+&Optionen
+
+&other
+&andere
+
+Overview
+
+Overwriting RO file!
+Überschreibe RO Datei!
+
+OVR
+Überschreibe
+
+&Pack
+&Packe/Komprimiere
+
+Pad with spaces
+
+Pane info
+
+&Parameters
+&Parameter
+
+Partial matching
+
+Passed the beginning of the file
+Am Anfang der Datei
+
+Passed the end of the file
+Am Ende der Datei
+
+Passive Path
+Inaktiver Pfad
+
+Paste
+Einfügen
+
+&Paste
+&Einfügen
+
+Please select segments to include in report
+
+Popup
+Popup
+
+Preprocessor
+
+Presets
+
+Prev
+Vorheriger
+
+Prev Bookmark
+
+Prev Diff
+Vorherige Differenz
+
+&Prev Diff
+&Vorherige Differenz
+
+Prev line change
+Vorherige geänderte Zeile
+
+Previous page
+Vorherige Seite
+
+Previous Pane
+Vorherige Anzeige
+
+Print
+Drucke
+
+&Print
+
+&Print changes only
+&Nur Änderungen drucken
+
+Print line &numbers
+Drucke Zeilen &Nummern
+
+Print Options
+
+Print options
+Druck Optionen
+
+Print preview
+Drucke Vorschau
+
+Progress1
+Fortschritt1
+
+&Project
+&Projekt
+
+&Projects
+&Projekte
+
+Projects
+Projekte
+
+Properties
+
+Quit the application; prompts to save documents
+Beenden Sie die Anwendungen; Popup um das Dokument zu speichern
+
+READ-ONLY file overwrite! Are you sure?
+READ-ONLY Datei überschreiben! Sind Sie sicher?
+
+Ready
+Bereit
+
+REC
+REC
+
+Recent
+
+&Recompare dirty lines
+Vergleiche Fett-markierte Zeilen erneut
+
+Redo
+Wiederhole
+
+Redo the previously undone action
+Wederhole die vorangegangene Rückgängig-Aktion
+
+Refresh mask
+Maske erneuern
+
+RegExp
+RegExp
+
+&Register Online!
+Online Registrierung!
+
+Register!
+Lassen Sie die Software registrieren!
+
+Regular expressions
+Regelmäßige Ausdrücke
+
+Regular expressions usage
+Regelmäßige Ausdrücke gebrauchen
+
+Regular expressions were applied!
+Regelmäßige Ausdrücke wurden angewandt!
+
+&Remove
+&Entfernen
+
+Remove All
+
+Remove all marks
+
+Remove current 'ignore difference' mark
+
+Remove mark
+
+Repeat
+Wiederhole
+
+Repeat the last action
+Wiederhole die letzte Aktion
+
+Replace
+Ersetze
+
+&Replace
+&Ersetze
+
+Replace all
+
+Replace &all
+
+Replace left file
+Ersetze linke Datei
+
+Replace right file
+Ersetze rechte Datei
+
+Replace second file with current one
+Ersetze Duplikat mit aktueller Datei
+
+Replace specific text with different text
+Ersetze markierten Text durch geänderten Text
+
+Replacements counter
+
+Report
+Report
+
+&Report file
+&Report Datei
+
+&Report format
+&Report Format
+
+Re&port same files
+Identische Dateien anzeigen
+
+Rescan
+Neue Prüfung
+
+&Rescan
+&Neue Prüfung
+
+Rescan current files
+Neue Prüfung der aktuellen Dateien
+
+Re&set all
+Alles Zurücksetzen
+
+Reset font size
+
+Restart log, if bigger than specified
+Log neu starten, wenn grösser als angegeben
+
+Restore the window to normal size
+Ändert das Fenster zu normalen Größe
+
+Reverse
+Quell- und Zielordner vertauschen
+
+Right
+Rechts
+
+Row &height
+Zeilen&höhe
+
+Run Find dialog
+Starte Suchabfrage
+
+Run &hidden
+Starte &versteckt
+
+Run options dialog
+Starte Optionsabfrage
+
+Same
+Gleich
+
+&Same as Main
+Gleich wie Haupt
+
+Same text
+
+Save %s as
+Speicher %s wie
+
+S&ave advanced filters
+
+&Save All
+&Speicher alles
+
+Save All
+Speicher alles
+
+Save all opened documents
+Speicher alle geöffneten Dokumente
+
+Save As
+Speichern als
+
+Save As Pair
+Speicher als Partner
+
+Save As Result
+Speichern als Ergebnis
+
+Save &As...
+Speichern &als ...
+
+Save Dest
+Speichern der Zieldateien
+
+Save destination file(right panel)
+Speichern der Zieldateien (rechte Spalte)
+
+Save Edit Mode state
+
+Save Source
+Speichern der Quell-Dateien
+
+Save source file (left panel)
+Speichern der Quell-Dateien (linke Spalte)
+
+Save &spaces, no tabs
+Speichern von Leerzeichen, keine Tab´s
+
+Save the active document with a new name
+Speichern des aktuellen Dokuments unter neuem Namen
+
+Saves current file as result
+Speichern der aktuellen Datei als Ergebnis
+
+Scan
+&Scannen
+
+Scanning
+scannt
+
+SCRL
+SCRL
+
+Scroll left pane &horizontally with mouse wheel
+
+&Search
+&Suche
+
+Search
+Suche
+
+Search for
+Suche nach
+
+Search &Mask
+Such&maske
+
+Search results
+Suchergebnisse
+
+Select
+Auswählen
+
+&Select
+&Auswählen
+
+Select All
+Wähle Alle aus
+
+Select &all
+
+Select compare file
+Wähle Vergleichsdatei aus
+
+Select Compare Tool
+Wähle Vergleichsprogramm aus
+
+Select file
+Wähle Datei aus
+
+Select file converter
+Auswahl Dateikonverter
+
+Select files
+Wähle Dateien aus
+
+Select &files
+Wähle &Dateien aus
+
+Select Files
+Wähle Dateien aus
+
+Select files individually
+
+Select Files to compare
+Wähle Dateien zum Vergleich aus
+
+Select first file
+Wähle erste Datei aus
+
+Select pair for :
+Wähle Partner fuer
+
+Select report &file
+Wähle Reportdatei
+
+Select source archive
+Quellarchiv vorwählen
+
+Select source folder
+Quellverzeichnis auswählen
+
+Select target archive
+Zielarchiv vorwählen
+
+Select target folder
+Zielverzeichnis auswählen
+
+Select the entire document
+Wähle das enthaltene Dokument aus
+
+Selected
+Ausgewählt
+
+Selected files only
+Zeige nur die ausgewählten Dateien
+
+Selected language will be used after program restart
+Gewählte Sprache wird nach dem Neustart genutzt
+
+Selects current text fragment
+Wähle aktuelle Textfragment
+
+Set manual anchor
+
+Set mark
+
+Settings
+Einstellungen
+
+Shift
+Hoch-Taste
+
+Shortcuts
+
+Show "Select Files" form
+
+Show all files
+Zeige alle Dateien
+
+Show change &marks
+
+Show Context Menu
+Zeige Kontextmenü
+
+Show file properties
+
+Show files, existing on both sides
+Zeige nur Dateien, die auf beiden Seiten existieren
+
+Show files, existing only on Source
+Zeige nur Dateien, die nur auf der Quellen-Seite existieren
+
+Show files, existing only on Target
+Zeige nur Dateien, die nur auf der Ziel-Seite existieren
+
+Show in &popup list
+Zeige in der Popup-Liste
+
+Show line numbers
+Linienzahlen zeigen
+
+Show match
+
+Show &message on finish
+Abschluß&meldung anzeigen
+
+Show moved
+
+Show moved section
+
+Show or hide the status bar
+Zeige oder verstecke die Statusleiste
+
+Show or hide the toolbar
+Zeige oder verstecke die Werkzeugleiste
+
+Show program information
+Zeige die Programm Informationen
+
+Sizes
+Dateigrößen
+
+&Skip
+Überspringe
+
+S&kip not-matched dirs
+Neue Verz. in Q. und Z. ignorieren
+
+Skip same fi&les
+Identische Dateien ignorieren
+
+Skip system and &hidden files
+Systemdateien und versteckte Dateien ignorieren
+
+&Small
+
+&Sort list by file names
+Liste nach Dateinamen &sortieren
+
+Sort mode
+Sortierung nach
+
+&Source
+&Quelle
+
+Source
+Quelle
+
+Source Archive Browse
+Durchsuche Quell-Archiv
+
+Source diff
+
+&Source file (left)
+Quell-Dateien (links)
+
+Source file is editable
+Quell-Dateien sind bearbeitbar
+
+Source File Not Found!
+Quell-Datei nicht gefunden!
+
+Source is not valid!
+Zugriff auf Quelle nicht möglich!
+
+Source Only
+Nur Quelle
+
+Source path
+Quell-Pfad
+
+Split
+Teile
+
+Split the active window into panes
+Teile das aktive Fenster in Spalten
+
+Standard
+Standard
+
+Statistics
+
+&Statistics
+&Statistiken
+
+Status
+Status
+
+&Status Bar
+Status-Leiste
+
+Stopping
+
+&Striked
+
+String
+
+String '%s' not found!
+Zeichenkette '%s' nicht gefunden!
+
+&Strip from path
+Unabhängig vom Pfad
+
+Support
+Support
+
+Support drag and drop
+
+Switch back to the previous window pane
+Wechsle zur vorherigen Fensterspalte
+
+Switch bookmark
+Welche Markierung
+
+Switch bookmark at current pos
+Wechsle Markierung zur aktuelle Position
+
+Switch edit mode
+Wechsle zum Bearbeitungs-Modus
+
+Switch Pane
+
+Switch pane
+Wechsel Scheibe
+
+Switch sides
+Wechsel Seiten
+
+Switch to the next document window
+Wechsle zum nächsten Dokumenten-Fenster
+
+Switch to the next window pane
+Wechsle zum nächsten Fenster
+
+Switch to the previous document window
+Wechsle zum vorherigen Dokumenten-Fenster
+
+Synchronize
+&Synchronisieren
+
+Syntax
+
+&Tab size
+Tabulator Größe
+
+Target
+Ziel
+
+&Target
+&Ziel
+
+Target Archive Browse
+Durchsuche Ziel-Archiv
+
+Target diff
+
+&Target file (right)
+Zieldatei (rechts)
+
+Target file is editable
+Zieldatei kann bearbeitet werden
+
+Target is not valid!
+Zugriff  auf Ziel ist nich möglich!
+
+Target Only
+Nur Ziel
+
+Target path
+Ziel-Pfad
+
+&Text
+&Text
+
+Text
+Text
+
+Thank you!
+Danke!
+
+There is no Projects defined! Would you like to add one now?
+Sie haben kein Projekt definiert! Möchten Sie ein Neues anlegen?
+
+There was an error:\n%s\nDo you want to continue?
+Es ist folgender Fehler aufgetreten:\n%s\nWollen Sie trotzdem weitermachen?
+
+These two directories appear\n to be identical
+Diese zwei Verzeichnisse scheinen\n gleich zu sein
+
+This file already exist
+Diese Datei existiert bereits
+
+This file is probably locked by other application.
+
+This file was change from outside
+Diese Datei wird von einem Dritten bearbeitet
+
+This file was changed:\n%s\nDo you want to save it?
+Diese Datei wurde geändert:\n%s\nMöchten Sie diese speichern?
+
+This Month
+Dieser Monat
+
+This Week
+Diese Woche
+
+Tip: %A - archive name; %D - target path
+Tip: %A - Archivname; %D - Zielpfad
+
+To change project, drag configs from available list
+Zum Ändern eines Projekts Konfigurationen zwischen den Listen verschieben
+
+To Kill
+Zu löschende Datei(en)
+
+To Source
+Neue Zieldatei
+
+To Target
+Neue Quelldatei
+
+To work with Projects page you need to create one or more Configurations!
+Um mit Projekten zu arbeiten, müssen Sie eine oder mehrere Konfigurationen erstellen!
+
+Today
+Heute
+
+Toggle
+
+Toggle Manual anchor
+
+Toggle merge bar
+
+Toggle overview bar
+
+Toggle pane info bar
+
+Toggle StatusBar
+Klicke auf  Statusleiste
+
+Toggle ToolBar
+Klicke auf Werkzeugleiste
+
+Toggle whitespaces display
+
+Toggle wordwrap
+
+Tool for this action is not defined!
+Ein Werkzeug für diese Aktion ist nicht definiert!
+
+&Toolbar
+Werkzeugleiste
+
+Toolbar
+
+&Tools
+&Tools
+
+Total
+Gesamt
+
+Total changed lines
+Gesamt geänderte Zeilen
+
+Total files copied
+Summe der kopierten Dateien
+
+Tracking
+Verfolgen
+
+&trailing
+verfolgen
+
+Two pages
+Zwei Seiten
+
+Type
+Typ
+
+Unable to find this tool: %s\nRun Tools Configuration?
+Kann das Werkzeug: %s nicht finden\nBenutze Werkzeug Konfiguration
+
+Underlined
+
+Undo
+Rückgängig
+
+&Undo
+&Rückgängig
+
+Undo changes
+
+Undo last edit action
+Letzte Bearbeitung rückgängig machen
+
+Undo the last action
+Letzte Aktion rückgängig machen
+
+UNREGISTERED VERSION!
+UNREGISTRIERTE VERSION!
+
+Unselect Files
+Nichtmarkierte Dateien
+
+Untab
+
+&Update destination only
+Nur ne&ue Dateien in Quelle
+
+Uppercase
+
+Use a&daptive comparison
+
+Use &Alt+Arrows for navigation
+Benutze &Alt+Pfeiltasten zum Bewegen
+
+Use another font for printing
+
+Use &archives in interface
+Vergleich von &Archiven anbieten
+
+Use backup folder
+Benutze den Buckup Ordner
+
+Use balloon-like messages
+
+Use &colors
+&Farben
+
+Use &Colors
+&Farben
+
+Use c&olumns range
+Spalten zählen 
+
+Use custom font
+Benutzer Schriften
+
+&Use extended colors
+&Benutze erweiterte Farben
+
+Use fixed font
+
+Use &fixed font
+
+Use hatching for virtual line
+
+&Use it for "Compare" button
+Tool zum &Vergleichen verwenden
+
+Use it for these files
+
+&Use line compare
+&Benutze Zeilen-Vergleich
+
+&Use only once
+&Es nur einmal anwenden
+
+Use Regular &Expressions
+
+&Use regular expressions
+
+Use Regular Expressions
+Regelmäßige Ausdrücke verwenden
+
+Use selection margin
+
+Use system &date format
+Datums-Format des &Systems benutzen
+
+User's tool
+
+&View
+Betrachten
+
+View .DOC files as text
+
+View as
+
+View Sources
+Betrachte Quelle
+
+View Targets
+Betrachte Ziele
+
+View whitespaces
+
+Virtual line
+Virtuelle Zeile
+
+&Virtual spaces in editor
+Virtuelle Leerzeichen im Editor
+
+Visit us to get this and other plug-ins
+
+Waiting for second file...
+Warte auf zweite Datei . . .
+
+Week(s)
+Woche(n)
+
+&Whole word only
+Nur ganze Wörter
+
+Window
+Fenster
+
+&Word wrap
+$Zeilenumbruch
+
+Wordwrap
+
+Wrap by column
+
+Wrap by sentence
+
+&Yes
+&Ja
+
+Yes
+Ja
+
+Yes To &All
+Ja zu &allem
+
+You are about to OVERWRITE file \n%s\n with file \n%s\n\nDo you want to quit WinCmp afterwards?
+Sie sind dabei folgende datei zu ÜBERSCHREIBEN \n%s\nWollen Sie WinCmp hinterher schließen?
+
+You can not save your settings.
+
+Your &key
+Ihr &Passwort
+
+Your &name
+Ihr &Name
+
+Zoom-in
+Einzoomen
+
+Zoom-out
+Auszoomen
+

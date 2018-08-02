@@ -1,0 +1,1505 @@
+[WinDict 1.0]
+[简体中文]
+[刘继华]
+[3.85]
+;20.04.2006 10:13.11
+
+%s not found!
+%s 没找到！
+
+%s\nhas READ-ONLY attribute!\nDo you want to overwrite it?
+%s\n具有只读属性！\n要覆盖它吗？
+
+0 or more matches
+0 或者更多匹配
+
+1 or more matches
+1 或者更多匹配
+
+<no items>
+<无项目>
+
+About
+关于(&A)
+
+Activate Task List
+活动任务列表
+
+Add
+A.添加(&A)
+
+Adjust similar lines
+调整相似行
+
+Advanced
+高级
+
+Advanced files selection
+高级文件选择
+
+&all
+全部(&A)
+
+Alphanumeric
+字母数字(&W)
+
+Alt
+
+Always start in Edit Mode
+总是以编辑模式启动
+
+Always start in Read-Only mode
+总是以只读模式启动
+
+Any character
+任意字符(&A)
+
+Are you sure you want to compare this file to itself?
+您真的要把这个文件和它自身进行比较吗？
+
+Arguments
+A 参数选择
+
+&Assign
+分配(&A)
+
+&Available
+可用语言(&A)
+
+&Background
+背景(&B)
+
+Backup files storage time, days
+B.备份文件存储时间, 日期
+
+Beginning of line
+行的开头(&O)
+
+Blank
+空白(&B)
+
+B&old
+粗体(&O)
+
+Both files are in read-only mode!
+两个文件都是只读模式！
+
+Cancel
+取消
+
+CAPS
+大写
+
+&Case sensitive
+区分大小写(&C)
+
+Change the window position
+更改窗口位置
+
+Change the window size
+更改窗口大小
+
+Changed
+差异
+
+Changes only
+仅显示差异处(&C)
+
+Character in range
+字符在范围(&C)
+
+Character not in range
+字符不在范围(&I)
+
+Close
+关闭
+
+Close all
+全部关闭(&L)
+
+Close the active window and prompts to save the documents
+关闭活动窗口并提示保存文档
+
+&cm
+厘米(&C)
+
+Col
+列
+
+Colors
+颜色
+
+Column range is used!
+列范围已经被使用！
+
+Command
+C 命令
+
+&Command
+命令(&C)
+
+&Commands
+命令(&C)
+
+Comment
+注释
+
+Compare files
+比较文件
+
+&Compare files
+比较文件(&C)
+
+&Compare It!
+比较它们！(&C)
+
+Compare lines
+比较行
+
+Comparing files . . .
+正在比较文件...
+
+Comparison
+比较
+
+Comparison report
+比较报告
+
+Comparison statistics
+比较统计
+
+Configuration file is read-only!
+配置文件是只读的！
+
+Context Help
+上下文帮助
+
+context &lines
+上下文行(&L)
+
+&Context lines for Changes Only mode
+仅显示差异处模式的上下文行(&C)
+
+Converters
+转换器
+
+Copy
+复制(&C)
+
+&Copy
+复制(&C)
+
+Copy Curr Diff to Dest
+复制当前差异块到目标( →右侧 )
+
+Copy Curr Diff to Source
+复制当前差异块到来源( 左侧← )
+
+Copy current difference to clipboard
+复制当前差异到剪贴板
+
+Copy Current line to Dest
+复制当前行到目标
+
+Copy Current line to Source
+复制当前行到来源
+
+Copy Diff
+复制差异块(&D)
+
+Copy Diff to clipboard
+复制差异处到剪贴板
+
+Copy the selection and put it on the Clipboard
+复制选定部分并把它放在剪贴板上
+
+Could not find string '%s'
+找不到字符串 “ %s ”
+
+Could not write to this file
+不能写到这个文件
+
+CR\LF mode is different!
+CR\LF 模式是不同的！
+
+Credits
+荣誉
+
+Current &keys
+当前键(&K)
+
+Currently assigned to
+当前分配到
+
+Currrent:%s
+当前:%s
+
+Custom
+自定义
+
+Customize
+自定义
+
+&Customize
+自定义(&C)
+
+Customize it!
+定制它！
+
+Customize Toolbar
+自定义工具栏
+
+Cu&t
+剪切(&T)
+
+Cut
+剪切
+
+Cut file after match
+匹配后截断文件
+
+Cut the selection and put it on the Clipboard
+剪切选定部分并把它放到剪贴板
+
+&Cycled search
+循环搜索(&C)
+
+Decrease font size
+缩小字号
+
+&Defaults
+默认(&D)
+
+Delete
+D 删除
+
+Delete all anchors
+删除所有锚点(&A)
+
+Delete anchor
+删除锚点(&D)
+
+Delete both line
+删除两边的行
+
+Delete current section in active file
+删除活动文件中的当前选定部分
+
+Delete in both files
+在两个文件中删除
+
+Delete Line
+删除行
+
+Delete section
+删除选定部分(&D)
+
+Description
+描述
+
+Dest only
+目标独有
+
+Destination File Not Found!
+目标文件没有找到！
+
+Diff To Dest
+差异到目标
+
+Diff To Src
+差异到来源
+
+Different in blanks only!
+仅空白处不同！
+
+Digit
+数字(&D)
+
+Dirty
+变更
+
+Disable vertical synchronization
+禁用垂直同步
+
+Display changes statistics
+显示差异统计
+
+Display printing options
+显示打印选项
+
+Display program information, version number and copyright
+显示程序信息，版本号和版权
+
+D&o "Select Files" on start
+在启动时“选定文件”(&O)
+
+Do not edit read-only files
+D.不编辑只读文件
+
+Do you want to fix this problem?
+您要修正这个问题吗？
+
+Do you want to reload files?
+您要重新载入文件吗？
+
+Do you want to rescan files now?
+您要立即重新扫描文件吗？
+
+Do you want to view files?
+您要查看文件吗？
+
+Doc Wrap
+文档换行(&D)
+
+Drop file here
+把文件拖到这儿
+
+&Edit
+编辑(&E)
+
+EDIT
+编辑
+
+Edit mode
+编辑模式(&E)
+
+Edited
+编辑
+
+Editor
+编辑器
+
+Enable syntax
+激活语法(&E)
+
+Enlarge the window to full size
+扩大窗口到全屏
+
+Erase
+清除
+
+Erase All
+全部清除
+
+Erase everything
+清除所有内容
+
+Erase the selection
+清除选定部分
+
+Example
+范例
+
+Executables(*.exe,*.bat,*.com)|*.exe; *.bat; *.com|All Files (*.*)|*.*||
+可执行文件(*.exe,*.bat,*.com)|*.exe; *.bat; *.com|所有文件 (*.*)|*.*||
+
+Exit
+退出(&X)
+
+E&xit
+退出(&X)
+
+Export
+E:导出
+
+EXT
+扩展
+
+External CSS file
+E.外部 CSS 文件
+
+Failed to change file attributes!
+不能改变文件属性!
+
+Failed to create file
+创建文件失败
+
+Failed to open archive
+打开档案文件失败
+
+Failed to read destination file!
+读取目标文件失败！
+
+Failed to read source file!
+读取来源文件失败！
+
+&File
+文件(&F)
+
+File date
+文件日期
+
+File Filters
+文件过滤器
+
+&File info
+文件信息(&F)
+
+File is probably locked by another application
+文件可能被其它应用程序锁定
+
+File size
+文件大小
+
+File type
+文件类型
+
+&Files
+文件(&F)
+
+Files are identical!
+文件是相同的！
+
+Filter view to changes only
+仅显示差异处的过滤器视图
+
+Find
+查找(&F)
+
+&Find
+查找(&F)
+
+Find first
+查找第一个(&F)
+
+&Find moved sections
+查找移动的部件(&F)
+
+Find &next
+查找下一个(&N)
+
+Find next
+查找下一个(&N)
+
+Find next bookmark
+查找下一个书签
+
+Find next item
+查找下一项目
+
+Find prev
+查找上一个(&P)
+
+Find &prev.
+查找上一个(&P)
+
+Find previous
+查找上一个
+
+Find previous word
+查找上一词
+
+Find the specified text
+查找指定的文本
+
+Find word
+查找字词
+
+Finds next difference in line
+查找行内下一差异处
+
+Finds previous difference in line
+查找行内上一差异处
+
+First
+第一
+
+F&ixed font
+固定字体(&I)
+
+&Font
+字体(&F)
+
+Font
+字体
+
+Fonts
+字体
+
+&Footer
+页脚(&F)
+
+Force &partial matching (slower)
+强制部分匹配（较慢）(&P)
+
+General
+常规
+
+Generate
+生成报告
+
+Generate differences report
+生成差异报告
+
+Go to first ignored difference
+转到第一个被忽略的差异处
+
+Go to line
+转到行(&G)
+
+Go to next diff
+转到下一差异处
+
+Go to next ignored difference
+转到下一个被忽略的差异处
+
+Go to prev diff
+转到上一差异处
+
+Go to previous ignored difference
+转到上一个被忽略的差异处
+
+Go to specified line
+转到指定行
+
+Go to WWW home page
+转到 WWW 主页
+
+&Go!
+去！(&G)
+
+&Gutter
+装订线(&G)
+
+&Header
+页眉(&H)
+
+&Help
+帮助(&H)
+
+Help
+帮助
+
+Home page
+主页(&P)
+
+Horizontal view
+水平视图(&H)
+
+&How to register?
+如何注册(&H)？
+
+Ignore blanks
+忽略空白
+
+Ignore &case
+忽略大小写(&C)
+
+Ignore current difference
+忽略当前差异处
+
+Ignore Diff
+忽略差异处(&G)
+
+I&gnore inserted empty lines
+忽略插入的空白行(&G)
+
+Ignore line &wraps
+忽略自动换行(&W)
+
+Ignore lines between R1 and R2
+忽略在 R1 和 R2 间的行
+
+Ignore lines matching R2 after R1
+忽略 R1 后匹配 R2 的行
+
+Ignore lines not matching R1
+忽略不匹配 R1 的行
+
+Ignore nothing
+禁用忽略(&I)
+
+Ignore &special characters
+忽略专用字符(&S)
+
+Ignore string with match
+忽略匹配的字符串
+
+Import
+导入(&I)
+
+in-line
+行内
+
+&inches
+英寸(&I)
+
+Include navigation
+I.包括导航
+
+Increase font size
+增大字号
+
+Insert after section
+在部件后插入(&A)
+
+Insert before section
+在部件前插入(&I)
+
+Insert Clipboard contents
+插入剪贴板内容
+
+Insert current section after changes block
+在差异块后插入当前部件
+
+Insert current section before changes block
+在差异块前插入当前部件
+
+Insert Tab
+插入 Tab
+
+I&talic
+斜体(&T)
+
+&Item
+项目(&I)
+
+&Items
+项目(&I)
+
+Key
+键
+
+Keyboard
+快捷键
+
+Keys list
+快捷键列表(&K)
+
+Keyword
+关键字
+
+&Kill blanks on line end
+删除行尾空白(&K)
+
+&Landscape
+横向(&L)
+
+Language
+语言
+
+Last
+前一
+
+&Later
+以后(&L)
+
+&leading
+前导(&L)
+
+Left
+左边
+
+&Line number
+行号(&L)
+
+Line numbers
+行号(&L)
+
+Line to Dest
+行到目标(&L)
+
+Line to Src
+行到来源(&T)
+
+Lines comparison
+行比较
+
+Lines View
+I:行查看
+
+Ln
+行
+
+Lowercase
+小写字母(&L)
+
+&Main
+主窗体(&M)
+
+Manual match
+手动匹配(&M)
+
+M&argin
+页边距(&A)
+
+Margins
+页边距
+
+Mark out current line
+M.标记当前行
+
+Mask
+M 掩码
+
+Match bracket
+匹配括号
+
+Match bracket + select
+匹配括号 + 选定
+
+&Merge
+合并(&M)
+
+Merge bar
+合并栏(&M)
+
+Merged
+合并
+
+M&in % of line to match
+最小匹配行(%)(&I)
+
+Min c&hars to match
+最小匹配字符(&H)
+
+&Min string length to match
+最小匹配字串长度(&T)
+
+Minimize
+最小化
+
+Minimize the window
+最小化窗口
+
+Move next
+移动下一个(&N)
+
+Move to next diff after editing
+编辑后移动到下一差异
+
+Move to previous bookmark
+移动到上一书签
+
+Moved sections mark color
+M.移动区块标记颜色
+
+&multiple
+连续空白字符(&M)
+
+N matches
+N 匹配
+
+&Name
+名称(&N)
+
+Name
+N 名称
+
+&New shortcut key
+新建快捷键(&N)
+
+New Tool
+新建工具
+
+Next anchor
+下一锚点(&N)
+
+Next Bookmark
+下一书签(&N)
+
+&Next Diff
+下一差异(&N)
+
+Next Diff
+下一差异(&N)
+
+Next line change
+下一行内差异(&X)
+
+Next page
+下一页
+
+Next Pane
+下一窗格
+
+No Sync
+不垂直同步
+
+No Wrap
+不换行
+
+&None
+无(&N)
+
+None
+无
+
+&not-word
+字符与非字符间(&N)
+
+NUM
+数字
+
+Number
+数字
+
+OK
+确定
+
+OK to delete tool
+确定要删除工具
+
+On start
+在开始
+
+One page
+一页
+
+Open after generation
+在生成后打开(&O)
+
+&Options
+选项(&O)
+
+Options
+选项
+
+Overview
+概览(&V)
+
+OVR
+改写
+
+Pad with spaces
+用空格填充
+
+Pane info
+窗格信息(&P)
+
+&Parameters
+参数(&P)
+
+Partial matching
+部分匹配(&A)
+
+Passed the beginning of the file
+传递到文件开头
+
+Passed the end of the file
+传递到文件结尾
+
+&Paste
+粘贴(&P)
+
+Paste
+粘贴(&P)
+
+Please select segments to include in report
+请选择要包括在报告中的部分
+
+Popup
+
+Preprocessor
+预处理器
+
+Presets
+边框
+
+Prev Bookmark
+上一书签(&V)
+
+&Prev Diff
+上一差异(&P)
+
+Prev Diff
+上一差异(&E)
+
+Prev line change
+上一行内差异(&I)
+
+Previous page
+上一页
+
+Previous Pane
+上一窗格
+
+Print
+打印(&P)
+
+&Print
+打印(&P)
+
+&Print changes only
+仅打印差异处(&P)
+
+Print line &numbers
+打印行号(&N)
+
+Print options
+打印选项(&O)
+
+Print Options
+打印选项
+
+Print preview
+打印预览(&I)
+
+Progress1
+
+Properties
+属性
+
+Quit the application; prompts to save documents
+退出应用程序；提示保存文档
+
+Ready
+就绪
+
+REC
+记录
+
+Recent
+最近文件(&N)
+
+Redo
+重做
+
+Redo the previously undone action
+再做先前取消的动作
+
+Register!
+注册！(&R)
+
+Regular expressions
+正则表达式
+
+Regular expressions usage
+使用正则表达式
+
+Regular expressions were applied!
+使用正则表达式！
+
+&Remove
+移除(&R)
+
+Remove All
+移除全部(&A)
+
+Remove all marks
+移除所有标记
+
+Remove current 'ignore difference' mark
+移除当前'忽略差异处'标记
+
+Remove mark
+移除标记(&R)
+
+Repeat
+重复
+
+Repeat the last action
+重复最后操作
+
+&Replace
+替换(&R)
+
+Replace
+替换(&R)
+
+Replace &all
+替换所有(&A)
+
+Replace all
+全部替换(&A)
+
+Replace left file
+替换左侧文件
+
+Replace right file
+替换右侧文件(&G)
+
+Replace second file with current one
+用当前文件替换第二个文件
+
+Replace specific text with different text
+用不同文本替换指定的文本
+
+Replacements counter
+替换计数器
+
+Report
+生成比较报告(&R)
+
+&Report format
+报告格式(&R)
+
+Rescan
+重新扫描(&R)
+
+&Rescan
+重新扫描(&R)
+
+Rescan current files
+重新扫描当前两个对比文件
+
+Re&set all
+全部重置(&S)
+
+Reset font size
+重置字号
+
+Restore the window to normal size
+恢复窗口到正常大小
+
+Right
+右边
+
+Run Find dialog
+运行查找对话框
+
+Run options dialog
+运行选项对话框
+
+Same
+相同
+
+&Same as Main
+与主窗体相同(&S)
+
+Same text
+同一文本
+
+Save %s as
+另存 %s 为
+
+&Save All
+全部保存(&S)
+
+Save All
+全部保存(&E)
+
+Save all opened documents
+保存所有打开的文档
+
+Save As
+另存为
+
+Save As Pair
+成对保存
+
+Save As Result
+保存为结果(&U)
+
+Save &As...
+另存为(&A)...
+
+Save Dest
+保存目标文件(&D)
+
+Save destination file(right panel)
+保存目标文件 ( 右窗 )
+
+Save Edit Mode state
+保存编辑模式状态
+
+Save Source
+保存来源文件(&V)
+
+Save source file (left panel)
+保存来源文件 ( 左窗 )
+
+Save &spaces, no tabs
+保存空白，非制表符(&S)
+
+Save the active document with a new name
+用一个新名称把活动文档另存为
+
+Saves current file as result
+把当前文件保存为结果
+
+SCRL
+滚动
+
+Scroll left pane &horizontally with mouse wheel
+在左窗格用鼠标滚轮水平滚动两窗格(&H)
+
+&Search
+搜索(&S)
+
+&Select
+选择(&S)
+
+Se&lect
+选择(&L)
+
+Select &all
+选择全部(&A)
+
+Select All
+选择全部
+
+Select compare file
+选择比较文件
+
+Select file converter
+选择文件转换器
+
+Select &files
+选择文件(&F)
+
+Select files
+选择文件
+
+Select files individually
+逐个选择文件
+
+Select Files to compare
+选择要比较的文件
+
+Select first file
+选择第一个文件
+
+Select pair for :
+选择第二个文件：
+
+Select report &file
+选择报告文件(&F)
+
+Select the entire document
+选择整个文档
+
+Selected language will be used after program restart
+程序重新启动后，选定的语言才会生效
+
+Selects current text fragment
+选择当前文本字段
+
+Set manual anchor
+设置手动锚点(&S)
+
+Set mark
+设置标记(&S)
+
+Shift
+
+Shortcuts
+快捷键
+
+Show "Select Files" form
+显示“选择文件”窗体
+
+Show change &marks
+显示差异标记(&M)
+
+Show Context Menu
+显示上下文菜单
+
+Show file properties
+显示文件属性
+
+Show line numbers
+显示行号
+
+Show match
+显示匹配(&M)
+
+Show moved
+显示移动部分(&H)
+
+Show moved section
+显示移动部件
+
+Show or hide the status bar
+显示或隐藏状态栏
+
+Show or hide the toolbar
+显示或隐藏工具栏
+
+Show program information
+显示应用程序信息
+
+&Small
+小(&S)
+
+Source diff
+来源文件差异处
+
+&Source file (left)
+来源文件(&S) ( 左 )
+
+Source file is editable
+来源文件可编辑(&S)
+
+Source File Not Found!
+没有找到来源文件！
+
+Source Only
+来源独有
+
+Split
+分割
+
+Split the active window into panes
+把活动窗口分割为窗格
+
+Statistics
+查看比较统计(&T)
+
+&Statistics
+统计(&S)
+
+&Status Bar
+状态栏(&S)
+
+Stopping
+正在停止
+
+&Striked
+删除线(&S)
+
+String
+字串
+
+Support
+支持
+
+Support drag and drop
+支持鼠标拖放
+
+Switch back to the previous window pane
+切回到上一窗格
+
+Switch bookmark
+切换书签(&B)
+
+Switch bookmark at current pos
+在当前位置切换书签
+
+Switch edit mode
+切换编辑模式
+
+Switch Pane
+切换窗格
+
+Switch pane
+切换窗格
+
+Switch sides
+两侧切换(&S)
+
+Switch to the next document window
+切换到下一文档窗口
+
+Switch to the next window pane
+切换到下一窗格
+
+Switch to the previous document window
+切回到上一文档窗口
+
+Syntax
+S 语法
+
+&Tab size
+Tab 尺寸(&T)
+
+Target diff
+目标文件差异处
+
+&Target file (right)
+目标文件(&T) ( 右 )
+
+Target file is editable
+目标文件可编辑(&I)
+
+Target Only
+目标独有
+
+&Text
+文本(&T)
+
+Text
+文本(&T)
+
+Thank you!
+感谢您！
+
+This file is probably locked by other application.
+文件大概被其它应用程序锁定。
+
+This file was change from outside
+该文件是在外部被更改
+
+This file was changed:\n%s\nDo you want to save it?
+此文件已被更改：\n%s\n要保存它吗？
+
+Toggle
+切换
+
+Toggle Manual anchor
+切换手动锚定
+
+Toggle merge bar
+切换合并栏
+
+Toggle overview bar
+切换概览窗格
+
+Toggle pane info bar
+切换窗格信息栏
+
+Toggle StatusBar
+切换状态栏
+
+Toggle ToolBar
+切换工具栏
+
+Toggle whitespaces display
+切换显示空白
+
+Toggle wordwrap
+切换自动换行
+
+Toolbar
+工具栏(&L)
+
+&Toolbar
+工具栏(&T)
+
+&Tools
+工具(&T)
+
+Total changed lines
+合计差异行
+
+&trailing
+行尾空白字符(&L)
+
+Two pages
+两页
+
+Underlined
+下划线
+
+Undo
+撤消
+
+&Undo
+撤消(&U)
+
+Undo changes
+C.撤消更改
+
+Undo last edit action
+撤消上次编辑操作
+
+Undo the last action
+撤消上次操作
+
+Untab
+取消标签
+
+Uppercase
+大写字母(&U)
+
+Use a&daptive comparison
+使用自适应比较(&D)
+
+Use another font for printing
+U.使用其它打印字体
+
+Use backup folder
+F.使用备份文件夹
+
+Use balloon-like messages
+U.使用气泡状信息
+
+Use &Colors
+使用颜色(&C)
+
+Use c&olumns range
+使用列范围(&O)
+
+Use fixed font
+F:使用固定字体
+
+Use hatching for virtual line
+虚拟行使用影线
+
+Use it for these files
+这些文件使用它
+
+&Use line compare
+使用行比较(&U)
+
+&Use only once
+仅使用一次(&U)
+
+Use Regular &Expressions
+使用正则表达式(&E)
+
+&Use regular expressions
+使用正则表达式(&U)
+
+Use selection margin
+使用选定部份边距
+
+User's tool
+用户工具
+
+&View
+视图(&V)
+
+View .DOC files as text
+V.文本方式查看 .DOC 文件
+
+View as
+查看方式(&V)
+
+View Sources
+查看来源
+
+View Targets
+查看目标
+
+View whitespaces
+查看空白(&T)
+
+Virtual line
+虚拟行
+
+&Virtual spaces in editor
+编辑器虚拟空间(&V)
+
+Visit us to get this and other plug-ins
+垂询我们来获取这个和其它插件
+
+Waiting for second file...
+正在等待第二个文件...
+
+&Whole word only
+全词匹配(&W)
+
+Window
+窗口
+
+&Word wrap
+自动换行(&W)
+
+Wordwrap
+自动换行(&W)
+
+Wrap by column
+按列换行
+
+Wrap by sentence
+按句换行
+
+You are about to OVERWRITE file \n%s\n with file \n%s\n\nDo you want to quit WinCmp afterwards?
+您打算覆盖文件 \n%s\n 成 \n%s\n\n之后退出 WinCmp 吗？
+
+You can not save your settings.
+您不能够保存您的配置。
+
+Your &key
+注册码(&K)
+
+Your &name
+贵姓(&N)
+
+Zoom-in
+放大
+
+Zoom-out
+缩小
+
